@@ -1,4 +1,4 @@
-<h1 align="center">👾 xFraylin 👾</h1>
+<h1 align="center">👾 xFraylin — Cybersecurity Researcher 👾</h1>
 
 <p align="center">
   🛡️ Cybersecurity Researcher | 🔍 OSINT | 💻 Pentesting | 🧠 Recon | 🤖 AI Security
