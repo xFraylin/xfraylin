@@ -1,6 +1,10 @@
 <h1 align="center">👾 xFraylin — Cybersecurity Researcher 👾</h1>
 
 <p align="center">
+  Cybersecurity Researcher from Dominican Republic 🇩🇴
+</p>
+
+<p align="center">
   🛡️ Cybersecurity Researcher | 🔍 OSINT | 💻 Pentesting | 🧠 Recon | 🤖 AI Security
 </p>
 
@@ -15,9 +19,9 @@
 
 ## 🧠 About Me
 
-👾 I'm **xFraylin**, a cybersecurity researcher focused on building tools, doing recon, and finding what others miss.
+👾 I'm **xFraylin**, a cybersecurity researcher focused on building tools, doing recon, and understanding how systems break.
 
-> *"Humans miss things. I don't."*
+> "I don't just find vulnerabilities — I understand how they exist."
 
 ---
 
@@ -36,24 +40,24 @@
 ### ☠️ 404x9 Evil Kit
 🔗 https://github.com/xFraylin/404x9-evil-kit  
 
-A powerful local web-based pentesting toolkit with multiple modules for recon, OSINT, exploitation, and more. :contentReference[oaicite:0]{index=0}  
+A powerful local web-based pentesting toolkit with multiple modules for recon, OSINT, exploitation, and more.
 
-- 🔥 Multi-tool pentesting platform  
-- ⚡ Real-time output (SSE streaming)  
-- 🧠 Organized modules: Recon, OSINT, Web, AD, Exploitation  
-- 🛠️ Built for Kali, Ubuntu, Debian  
+🔥 Full-stack pentesting environment  
+🧠 Combines recon, OSINT, exploitation & AD attacks  
+⚙️ Designed for real-world security workflows  
+🛠️ Built for Kali, Ubuntu, Debian  
 
 ---
 
 ### 🔍 Hacking Dorks
 🔗 https://github.com/xFraylin/hacking-dorks  
 
-Advanced Google Dorks generator for security research. :contentReference[oaicite:1]{index=1}  
+Advanced Google Dorks generator for security research.
 
-- 🎯 30+ categories of dorks  
-- ⚡ Bulk reconnaissance  
-- 🎨 Modern UI (Next.js + Tailwind)  
-- 🌐 Live demo included  
+🧠 Built for real reconnaissance workflows  
+🎯 Automates advanced Google hacking techniques  
+⚡ Designed for bug bounty & OSINT operations  
+🎨 Modern UI (Next.js + Tailwind)  
 
 ---
 
@@ -62,10 +66,10 @@ Advanced Google Dorks generator for security research. :contentReference[oaicite
 
 Professional CV builder optimized for ATS systems.
 
-- 📄 ATS-friendly structure  
-- 🌍 EN ↔ ES translation  
-- 🧩 Drag & drop sections  
-- 📤 Export to PDF  
+💼 Built with real hiring systems in mind  
+📊 Optimized for recruiter parsing (ATS systems)  
+🌍 Useful for developers and professionals  
+📤 Export to PDF  
 
 ---
 
