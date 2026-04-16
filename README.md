@@ -1,16 +1,20 @@
-## Hi there 👋
+# xFraylin
 
-<!--
-**xFraylin/xfraylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+xFraylin is a cybersecurity researcher focused on OSINT, reconnaissance, pentesting, and security tools.
 
-Here are some ideas to get you started:
+## About xFraylin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+xFraylin shares projects related to:
+- OSINT (Open Source Intelligence)
+- Pentesting
+- Reconnaissance
+- Dorking techniques
+- Security research
+
+## Projects
+
+This repository is part of the work and research done by xFraylin in cybersecurity.
+
+## Contact
+
+Follow xFraylin on GitHub for more tools and research.
