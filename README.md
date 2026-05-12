@@ -1,205 +1,94 @@
-<div align="center">
+<h1 align="center">👾 xFraylin — Cybersecurity Researcher 👾</h1>
 
-```txt
-██╗  ██╗███████╗██████╗  █████╗ ██╗   ██╗██╗     ██╗███╗   ██╗
-╚██╗██╔╝██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝██║     ██║████╗  ██║
- ╚███╔╝ █████╗  ██████╔╝███████║ ╚████╔╝ ██║     ██║██╔██╗ ██║
- ██╔██╗ ██╔══╝  ██╔══██╗██╔══██║  ╚██╔╝  ██║     ██║██║╚██╗██║
-██╔╝ ██╗██║     ██║  ██║██║  ██║   ██║   ███████╗██║██║ ╚████║
-╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝╚═╝  ╚═══╝
-```
+<p align="center">
+  Cybersecurity Researcher from Dominican Republic 🇩🇴
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=Cybersecurity+Researcher;Red+Team+%7C+Blue+Team+%7C+Purple+Team;Recon+%7C+OSINT+%7C+Pentesting;Building+Cyberpunk+Security+Toolkits;AI+%2B+Offensive+Security" />
+<p align="center">
+  🛡️ Cybersecurity Researcher | 🔍 OSINT | 💻 Pentesting | 🧠 Recon | 🤖 AI Security
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff99?style=flat-square&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/FOCUS-OFFENSIVE%20%2B%20DEFENSIVE-00ccff?style=flat-square&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/TEAM-RED%20%2F%20BLUE%20%2F%20PURPLE-8000ff?style=flat-square&labelColor=000000"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=for-the-badge&logo=hackaday">
+  <img src="https://img.shields.io/badge/OSINT-Active-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pentesting-Builder-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Recon-Always-green?style=for-the-badge">
+</p>
 
 ---
+
+## 🧠 About Me
+
+👾 I'm **xFraylin**, a cybersecurity researcher focused on building tools, doing recon, and understanding how systems break.
+
+> "I don't just find vulnerabilities — I understand how they exist."
+
+---
+
+## 🔎 What I Do
+
+- 🔍 OSINT (Open Source Intelligence)
+- 🧠 Reconnaissance & Attack Surface Mapping
+- 💻 Pentesting & Security Testing
+- 🕵️ Advanced Dorking Techniques
+- 🤖 AI applied to Cybersecurity
+
+---
+
+## 🚀 Featured Projects
+
+### ☠️ 404x9 Evil Kit
+🔗 https://github.com/xFraylin/404x9-evil-kit  
+
+A powerful local web-based pentesting toolkit with multiple modules for recon, OSINT, exploitation, and more.
+
+🔥 Full-stack pentesting environment  
+🧠 Combines recon, OSINT, exploitation & AD attacks  
+⚙️ Designed for real-world security workflows  
+🛠️ Built for Kali, Ubuntu, Debian  
+
+---
+
+### 🔍 Hacking Dorks
+🔗 https://github.com/xFraylin/hacking-dorks  
+
+Advanced Google Dorks generator for security research.
+
+🧠 Built for real reconnaissance workflows  
+🎯 Automates advanced Google hacking techniques  
+⚡ Designed for bug bounty & OSINT operations  
+🎨 Modern UI (Next.js + Tailwind)  
+
+---
+
+### 📄 ATS Resume Builder
+🔗 https://github.com/xFraylin/Ats-resume  
+
+Professional CV builder optimized for ATS systems.
+
+💼 Built with real hiring systems in mind  
+📊 Optimized for recruiter parsing (ATS systems)  
+🌍 Useful for developers and professionals  
+📤 Export to PDF  
+
+---
+
+## 🛠️ Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,ts,nextjs" />
+</p>
+
+---
+
+## 📡 Connect
+
+- 🧠 GitHub: https://github.com/xFraylin  
+- 🌐 Portfolio: https://xfraylin.github.io  
+
+---
+
+## 🧬 Mindset
 
 ```bash
-┌──(root㉿xfraylin)-[~/]
-└─# whoami
-```
-
-```yaml
-name: Fraylin López
-alias: xFraylin
-
-role:
-  - Cybersecurity Researcher
-  - Offensive Security
-  - Defensive Security
-
-specialty:
-  - Recon
-  - OSINT
-  - Pentesting
-  - AI Security
-  - Purple Team Operations
-
-location: Dominican Republic 🇩🇴
-
-status: ACTIVE
-```
-
----
-
-```bash
-┌──(root㉿xfraylin)-[~/experience]
-└─# cat profile.txt
-```
-
-```txt
-> SOC Operations
-> Incident Response
-> Vulnerability Assessment
-> Threat Detection
-> Security Monitoring
-> Offensive Tool Development
-```
-
----
-
-```bash
-┌──(root㉿xfraylin)-[~/achievements]
-└─# ls
-```
-
-```txt
-🏆 WorldSkills Lyon 2024
-🥈 WorldSkills Chile 2023
-🧠 CTF Player
-⚔️ Security Researcher
-👾 Offensive Tool Developer
-```
-
----
-
-```bash
-┌──(root㉿xfraylin)-[~/projects]
-└─# tree
-```
-
-```txt
-.
-├── 404x9-evil-kit
-├── hacking-dorks
-└── ats-resume
-```
-
----
-
-# 👾 404x9 Evil Kit
-
-```txt
-[ offensive-security-framework ]
-
-> recon automation
-> osint workflows
-> exploitation modules
-> active directory tooling
-> cyberpunk interface
-> modular architecture
-```
-
-🔗 https://github.com/xFraylin/404x9-evil-kit
-
----
-
-# 🔍 Hacking Dorks
-
-```txt
-[ osint + recon toolkit ]
-
-> advanced dork generation
-> bug bounty workflows
-> reconnaissance automation
-> offensive search operations
-```
-
-🔗 https://github.com/xFraylin/hacking-dorks
-
----
-
-# 📄 ATS Resume Builder
-
-```txt
-[ professional resume builder ]
-
-> ats optimized
-> recruiter friendly
-> pdf export
-> modern interface
-```
-
-🔗 https://github.com/xFraylin/Ats-resume
-
----
-
-```bash
-┌──(root㉿xfraylin)-[~/arsenal]
-└─# load tools
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,ts,nextjs,nodejs,react,tailwind,docker,mysql,vscode" />
-
-</div>
-
----
-
-```bash
-┌──(root㉿xfraylin)-[~/mindset]
-└─# cat philosophy.txt
-```
-
-```txt
-Attack to understand.
-Defend to evolve.
-Automate to scale.
-Learn continuously.
-```
-
----
-
-<div align="center">
-
-```txt
-scan -> analyze -> exploit -> defend -> learn -> repeat
-```
-
-</div>
-
----
-
-```bash
-┌──(root㉿xfraylin)-[~/connect]
-└─# show links
-```
-
-```txt
-GitHub     :: https://github.com/xFraylin
-Portfolio  :: https://xfraylin.github.io
-LinkedIn   :: https://linkedin.com/in/fraylin-lopez
-```
-
----
-
-<div align="center">
-
-```txt
-[ ETHICAL USE ONLY ]
-
-All research and tooling are intended strictly
-for authorized environments and security research.
-```
-
-</div>
+scan -> analyze -> exploit -> learn -> repeat
