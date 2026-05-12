@@ -5,11 +5,21 @@
 </div>
 
 <h1 align="center">
-  👾 xFraylin — Offensive & Defensive Security 👾
+  👾 xFraylin — Cybersecurity Researcher 👾
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Cybersecurity+Researcher;Red+Team+%7C+Blue+Team+%7C+Purple+Team;OSINT+%7C+Recon+%7C+Pentesting;Building+Cyberpunk+Security+Toolkits;AI+%2B+Cybersecurity+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Cybersecurity+Researcher;WorldSkills+Competitor+🇩🇴;Red+Team+%7C+Blue+Team+%7C+Purple+Team;OSINT+%7C+Recon+%7C+Pentesting;Building+Cyberpunk+Security+Toolkits;AI+%2B+Cybersecurity+Automation" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/xFraylin">
+  <img src="https://img.shields.io/github/followers/xFraylin?label=Followers&style=for-the-badge&color=00ff99&labelColor=0d1117">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=xFraylin&style=for-the-badge&color=00ff99&labelColor=0d1117">
+
 </p>
 
 ---
@@ -30,7 +40,8 @@
 ┌──(root㉿xfraylin)-[~/cybersecurity]
 └─# whoami
 
-Name:        xFraylin
+Name:        Fraylin López
+Alias:       xFraylin
 Role:        Cybersecurity Researcher
 Focus:       Offensive + Defensive Security
 Team:        Red Team / Blue Team / Purple Team
@@ -39,6 +50,47 @@ Location:    Dominican Republic 🇩🇴
 
 [ SYSTEM STATUS ]
 ██████████████████████ 100%
+```
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<div align="center">
+
+```yaml
+name: xFraylin
+type: Cybersecurity Researcher
+
+specializations:
+  - Offensive Security
+  - Defensive Security
+  - Purple Team Operations
+  - OSINT
+  - Reconnaissance
+  - Pentesting
+  - AI Security
+
+experience:
+  - SOC Operations
+  - Incident Response
+  - Vulnerability Assessment
+  - Security Monitoring
+  - Threat Detection
+
+achievements:
+  - WorldSkills Lyon 2024 🇫🇷
+  - WorldSkills Chile 2023 🇨🇱
+  - CTF Player
+  - Security Tool Developer
+
+mission:
+  "Understand systems before breaking or defending them."
+
+status:
+  ACTIVE
 ```
 
 </div>
@@ -64,34 +116,6 @@ Location:    Dominican Republic 🇩🇴
 <img src="https://img.shields.io/badge/AI%20Security-8a2be2?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </p>
-
----
-
-# 👨‍💻 About Me
-
-<div align="center">
-
-```yaml
-name: xFraylin
-type: Cybersecurity Researcher
-
-specializations:
-  - Offensive Security
-  - Defensive Security
-  - Purple Team Operations
-  - OSINT
-  - Reconnaissance
-  - Pentesting
-  - AI Security
-
-mission:
-  "Understand systems before breaking or defending them."
-
-status:
-  ACTIVE
-```
-
-</div>
 
 ---
 
@@ -176,6 +200,31 @@ https://github.com/xFraylin/Ats-resume
 
 ---
 
+# 🧪 Certifications & Training
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/INE%20Security-eJPT-00ff99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Incident%20Response-ITLA-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌍 International Competitions
+
+<div align="center">
+
+🏆 WorldSkills Lyon 2024 🇫🇷  
+🥈 WorldSkills Chile 2023 🇨🇱
+
+</div>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -204,6 +253,7 @@ https://github.com/xFraylin/Ats-resume
 |---|---|
 | 👾 GitHub | https://github.com/xFraylin |
 | 🌍 Portfolio | https://xfraylin.github.io |
+| 💼 LinkedIn | https://linkedin.com/in/fraylin-lopez |
 
 </div>
 
